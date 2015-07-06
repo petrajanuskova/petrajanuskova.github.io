@@ -2,6 +2,13 @@
 	padding-top: 200px;
 }
 
+.overlay {
+  width: 100%;
+  height: 100vh;
+  float: left;
+  background: rgba(0,201,220, 0.40);
+}
+
 /*
  * Author: Carlos Alvarez
  * URL: http://alvarez.is
