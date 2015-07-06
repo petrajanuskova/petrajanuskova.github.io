@@ -201,7 +201,7 @@ input {
 
 /* HEADER SECTION */
 #h {
-	background: url(../img/header.jpg) no-repeat center top;
+	background: url('https://cloud.githubusercontent.com/assets/13209615/8535900/322dc0b2-2418-11e5-97c6-f3edc5180c32.jpg') no-repeat center top;
 	padding-top: 5px;
 	background-attachment: relative;
 	background-position: center center;
