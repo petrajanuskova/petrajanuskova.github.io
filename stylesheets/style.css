@@ -10,10 +10,10 @@
 }
 
 .container { 
+  padding-left: 175px;
   float: left;
   position: absolute;
   color: white;
-  padding-left: 175px;
 }
 
 /*
