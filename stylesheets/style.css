@@ -1,5 +1,9 @@
+body {
+  position: fixed;
+}
+
 .padded-top {
-	padding-top: 200px;
+  padding-top: 200px;
 }
 
 .overlay {
@@ -9,8 +13,9 @@
   background: rgba(0,201,220, 0.40);
 }
 
-.container { 
-  padding-left: 175px;
+.text-container { 
+  padding-left: 25%;
+  width: 50% !important;
   float: left;
   position: absolute;
   color: white;
