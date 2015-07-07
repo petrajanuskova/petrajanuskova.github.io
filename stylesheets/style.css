@@ -9,6 +9,13 @@
   background: rgba(0,201,220, 0.40);
 }
 
+.container { 
+  float: left;
+  position: absolute;
+  color: white;
+  padding-left: 175px;
+}
+
 /*
  * Author: Carlos Alvarez
  * URL: http://alvarez.is
