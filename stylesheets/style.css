@@ -4,8 +4,18 @@ body {
   width: 100%;
 }
 
-.padded-top {
-  padding-top: 200px;
+/* #### Mobile Phones Landscape #### */
+@media screen and (max-device-width: 640px) and (orientation: landscape){
+  .padded-top {
+    padding-top: 10%;
+  }
+}
+
+/* #### Desktops #### */
+@media screen and (min-width: 1024px){
+  .padded-top {
+    padding-top: 200px;
+  }
 }
 
 .overlay {
