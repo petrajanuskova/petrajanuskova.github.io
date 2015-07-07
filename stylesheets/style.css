@@ -10,6 +10,10 @@ html, body {
   .padded-top {
     padding-top: 10px;
   }
+  html, body {
+    position: relative;
+    overflow: show;	
+  }
 }
 
 /* #### Desktops #### */
